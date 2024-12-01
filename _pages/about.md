@@ -27,7 +27,7 @@ Education
 
 Academic service
 ======
-Reviewer: IEEE Transactions on Information Forensics and Security, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Internet of Things Journal, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, IEEE Transactions on Vehicular Technology, ACM Transactions on Internet Technology, etc.
+Reviewer: CVPR, ICLR, IEEE TIFS, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
 
 TPC member: IEEE ICC 2025, IEEE ICC 2024, IEEE ICCC 2024
 
