@@ -12,7 +12,7 @@ Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the
 
 He received the Ph.D. degree in cybersecurity from UESTC in 2023 (supervised by Prof. Hongwei Li) and studied as a visiting Ph.D. student from Jul. 2021 to Jul. 2022 at Nanyang Technological University, Singapore (supervised by Prof. Tianwei Zhang). He has published many papers in major conferences/journals, including IEEE CVPR, USENIX Security, IEEE TDSC, IEEE TIFS, etc. 
 
-Email: wenbo_jiang@uestc.edu.cn.<br>
+Email: wenbo_jiang@uestc.edu.cn<br>
 Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
 Research interests
