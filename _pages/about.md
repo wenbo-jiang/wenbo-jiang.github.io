@@ -23,8 +23,8 @@ Education
 2021-2022: Visiting PhD in Cyber Security, Nanyang Technological University
 2019-2023: PhD degree in Cyber Security, University of Electronic Science and Technology of China
 
-Academic Service
-------
+Education
+======
 Reviewer: IEEE Transactions on Information Forensics and Security, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Internet of Things Journal, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, IEEE Transactions on Vehicular Technology, ACM Transactions on Internet Technology, etc.
 
 TPC member: IEEE ICC 2025, IEEE ICC 2024, IEEE ICCC 2024
