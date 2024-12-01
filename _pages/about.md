@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. 
-
-
-He received the Ph.D. degree in cybersecurity from UESTC in 2023 (supervised by Prof. Hongwei Li) and studied as a visiting Ph.D. student from Jul. 2021 to Jul. 2022 at Nanyang Technological University, Singapore (supervised by Prof. Tianwei Zhang). He has published many papers in major conferences/journals, including IEEE CVPR, USENIX Security, IEEE TDSC, IEEE TIFS, etc. 
+Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the fitst and corrsponding author, he has published many papers in major conferences/journals, including IEEE CVPR, USENIX Security, IEEE TDSC, IEEE TIFS, etc. 
 
 Email: wenbo_jiang@uestc.edu.cn<br>
 Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
@@ -23,8 +20,8 @@ Education
 ======
 2013-2017: Bachelor degree in Cyber Security, University of Electronic Science and Technology of China.<br>
 2017-2019: Master degree in Cyber Security, University of Electronic Science and Technology of China.<br>
-2021-2022: Visiting PhD in Cyber Security, Nanyang Technological University.<br>
-2019-2023: PhD degree in Cyber Security, University of Electronic Science and Technology of China.<br>
+2021-2022: Visiting PhD in Cyber Security, Nanyang Technological University (supervised by Prof. Tianwei Zhang).<br>
+2019-2023: PhD degree in Cyber Security, University of Electronic Science and Technology of China (supervised by Prof. Hongwei Li).<br>
 
 Academic service
 ======
