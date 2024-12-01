@@ -20,8 +20,11 @@ AI security and Privacy; Trustworthy AI; Backdoor attacks; Adversarial attacks; 
 Education
 ======
 2013-2017: Bachelor degree in Cyber Security, University of Electronic Science and Technology of China
+
 2017-2019: Master degree in Cyber Security, University of Electronic Science and Technology of China
+
 2021-2022: Visiting PhD in Cyber Security, Nanyang Technological University
+
 2019-2023: PhD degree in Cyber Security, University of Electronic Science and Technology of China
 
 Academic service
