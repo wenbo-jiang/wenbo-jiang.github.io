@@ -22,9 +22,9 @@ name                     : &name "Wenbo Jiang (姜文博)"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenbo Jiang (姜文博)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
