@@ -12,7 +12,7 @@ locale                   : "China"
 #title_separator          : "-"
 name                     : &name "Wenbo Jiang (姜文博)"
 #description              : &description "personal description"
-url                      : https://wenbo_jiang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/amazingjwb/wenbo_jiang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
