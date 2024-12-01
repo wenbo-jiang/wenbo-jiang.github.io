@@ -21,7 +21,7 @@ name                     : &name "Wenbo Jiang (姜文博)"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wenbo_jiang.png"
   name             : "Wenbo Jiang (姜文博)"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
