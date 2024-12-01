@@ -36,8 +36,8 @@ Guest editor: A special issue of Electronics (Security and Privacy for AI)  http
 Recent publications
 ======
 
-+**W. Jiang**, H. Li, G. Xu, T. Zhang, "Color backdoor: A robust poisoning attack in color space" in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 8133-8142.<br>
-+**W. Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "A Comprehensive Defense Framework Against Model Extraction Attacks," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 685-700, March-April 2024, doi: 10.1109/TDSC.2023.3261327.<br>
++ **W. Jiang**, H. Li, G. Xu, T. Zhang, "Color backdoor: A robust poisoning attack in color space" in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 8133-8142.<br>
++ **W. Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "A Comprehensive Defense Framework Against Model Extraction Attacks," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 685-700, March-April 2024, doi: 10.1109/TDSC.2023.3261327.<br>
 +W. Fan, H. Li, **W. Jiang***, M. Hao, S. Yu and X. Zhang, "Stealthy Targeted Backdoor Attacks Against Image Captioning," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5655-5667, 2024, doi: 10.1109/TIFS.2024.3402179.<br>
 +R. Zhang, H. Li, R. Wen, **W. Jiang**, Y. Zhang, M. Backes, Y. Shen and Y. Zhang, "Instruction backdoor attacks against customized {LLMs}," In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 1849-1866).<br>
 +**W. Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "Physical Black-Box Adversarial Attacks Through Transformations," in IEEE Transactions on Big Data, vol. 9, no. 3, pp. 964-974, 1 June 2023, doi: 10.1109/TBDATA.2022.3227318.<br>
