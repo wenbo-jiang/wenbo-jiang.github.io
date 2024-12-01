@@ -21,7 +21,7 @@ url                      : https://amazingjwb.github.io/wenbo_jiang.github.io/ #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wenbo_jiang.jpg"
+  avatar           : "profile.png"
   name             : "Wenbo Jiang (姜文博)"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
