@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Wenbo Jiang (姜文博)"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About me
-======
+
 Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. 
 
 
