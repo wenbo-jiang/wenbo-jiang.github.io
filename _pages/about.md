@@ -13,6 +13,7 @@ Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the
 He received the Ph.D. degree in cybersecurity from UESTC in 2023 (supervised by Prof. Hongwei Li) and studied as a visiting Ph.D. student from Jul. 2021 to Jul. 2022 at Nanyang Technological University, Singapore (supervised by Prof. Tianwei Zhang). He has published many papers in major conferences/journals, including IEEE CVPR, USENIX Security, IEEE TDSC, IEEE TIFS, etc. 
 
 Email: wenbo_jiang@uestc.edu.cn
+Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
 Research interests
 ======
@@ -35,7 +36,6 @@ Guest editor: A special issue of Electronics (Security and Privacy for AI)  http
 
 Recent publications
 ======
-+ Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 + **W. Jiang**, H. Li, G. Xu, T. Zhang, "Color backdoor: A robust poisoning attack in color space" in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 8133-8142.<br>
 + **W. Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "A Comprehensive Defense Framework Against Model Extraction Attacks," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 685-700, March-April 2024, doi: 10.1109/TDSC.2023.3261327.<br>
 + W. Fan, H. Li, **W. Jiang***, M. Hao, S. Yu and X. Zhang, "Stealthy Targeted Backdoor Attacks Against Image Captioning," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5655-5667, 2024, doi: 10.1109/TIFS.2024.3402179.<br>
@@ -48,5 +48,6 @@ Recent publications
 + Ran Zhang, Hongwei Li, Xinyuan Qian, Xiaoyuan Liu and **Wenbo Jiang**, “QPFFL: Advancing Federated Learning with Quantum-Resistance, Privacy, and Fairness” IEEE Globecom 2024.<br>
 + R Zhang, H Li, X Qian, **W Jiang***, X Zhang, "An Efficient and Secure Privacy-Preserving Federated Learning Via Lattice-Based Functional Encryption" in IEEE ICC 2024.<br>
 + J He, H Li, **W Jiang***, Y Zhang, "Mtisa: Multi-Target Image-Scaling Attack" in IEEE ICC 2024.<br>
+More publications can be found in Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
 
