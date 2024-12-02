@@ -46,6 +46,6 @@ Recent publications
 + R Zhang, H Li, X Qian, **W Jiang***, X Zhang, "An Efficient and Secure Privacy-Preserving Federated Learning Via Lattice-Based Functional Encryption" in IEEE ICC 2024.<br>
 + J He, H Li, **W Jiang***, Y Zhang, "Mtisa: Multi-Target Image-Scaling Attack" in IEEE ICC 2024.<br>
 
-More publications can be found in Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
+Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
 
