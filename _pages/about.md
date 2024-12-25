@@ -33,9 +33,10 @@ Guest editor: A special issue of Electronics (Security and Privacy for AI)  http
 
 Recent publications
 ======
-+ Xue Yang, Tao Chen, lei guo, **Wenbo Jiang**, ji guo, Yongming Li, Jiaming He. "BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution" Proceedings of ICASSP 2025
-+ Jiaming He, Cheng Liu, Guanyu Hou, **Wenbo Jiang**, Jiachen Li. "PRESS: Defending Privacy in Retrieval-Augmented Generation via Embedding Space Shifting" Proceedings of ICASSP 2025
-+ Jiaming He, **Wenbo Jiang**, Guanyu Hou, Wenshu Fan, Rui Zhang and Hongwei Li. " Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models." Proceedings of the AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025. 
++ **W. Jiang**, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu, "Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective" in IEEE Transactions on Dependable and Secure Computing.<br>
++ Xue Yang, Tao Chen, lei guo, **Wenbo Jiang**, ji guo, Yongming Li, Jiaming He. "BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution" Proceedings of ICASSP 2025.<br>
++ Jiaming He, Cheng Liu, Guanyu Hou, **Wenbo Jiang**, Jiachen Li. "PRESS: Defending Privacy in Retrieval-Augmented Generation via Embedding Space Shifting" Proceedings of ICASSP 2025.<br>
++ Jiaming He, **Wenbo Jiang**, Guanyu Hou, Wenshu Fan, Rui Zhang and Hongwei Li. " Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models." Proceedings of the AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025.<br>
 + **W. Jiang**, H. Li, G. Xu, T. Zhang, "Color backdoor: A robust poisoning attack in color space" in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 8133-8142.<br>
 + **W. Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "A Comprehensive Defense Framework Against Model Extraction Attacks," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 685-700, March-April 2024, doi: 10.1109/TDSC.2023.3261327.<br>
 + W. Fan, H. Li, **W. Jiang***, M. Hao, S. Yu and X. Zhang, "Stealthy Targeted Backdoor Attacks Against Image Captioning," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5655-5667, 2024, doi: 10.1109/TIFS.2024.3402179.<br>
