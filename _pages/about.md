@@ -33,7 +33,7 @@ Guest editor: A special issue of Electronics (Security and Privacy for AI)  http
 
 Recent publications
 ======
-+ **W. Jiang**, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu, "Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective" in IEEE Transactions on Dependable and Secure Computing.<br>
++ **W. Jiang**, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu, "Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective" in IEEE Transactions on Dependable and Secure Computing, DOI: 10.1109/TDSC.2024.3521942.<br>
 + Xue Yang, Tao Chen, lei guo, **Wenbo Jiang**, ji guo, Yongming Li, Jiaming He. "BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution" Proceedings of ICASSP 2025.<br>
 + Jiaming He, Cheng Liu, Guanyu Hou, **Wenbo Jiang**, Jiachen Li. "PRESS: Defending Privacy in Retrieval-Augmented Generation via Embedding Space Shifting" Proceedings of ICASSP 2025.<br>
 + Jiaming He, **Wenbo Jiang**, Guanyu Hou, Wenshu Fan, Rui Zhang and Hongwei Li. " Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models." Proceedings of the AAAI 2025.<br>
