@@ -25,9 +25,9 @@ Education
 
 Academic service
 ======
-Reviewer for conference: CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, IJCNN 2025 (Area Chair), IEEE ICC 2025 (TPC member), IEEE ICC 2024 (TPC member), IEEE ICCC 2024 (TPC member), etc.
+Reviewer for conference: KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, IJCNN 2025 (Area Chair), etc.
 
-Reviewer for journals: IEEE TIFS, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
+Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
 
 Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU
 
