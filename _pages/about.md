@@ -43,12 +43,7 @@ Recent publications
 + R. Zhang, H. Li, R. Wen, **W. Jiang**, Y. Zhang, M. Backes, Y. Shen and Y. Zhang, "Instruction backdoor attacks against customized {LLMs}," In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 1849-1866).<br>
 + **W. Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "Physical Black-Box Adversarial Attacks Through Transformations," in IEEE Transactions on Big Data, vol. 9, no. 3, pp. 964-974, 1 June 2023, doi: 10.1109/TBDATA.2022.3227318.<br>
 + **W. Jiang**, T. Zhang, H. Qiu, H. Li and G. Xu, "Incremental Learning, Incremental Backdoor Threats," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 559-572, March-April 2024, doi: 10.1109/TDSC.2022.3201234.<br>
-+ **Wenbo Jiang**, Hongwei Li, Yuxin Lu, et al., “Adversarial Robustness Poisoning: Increasing Adversarial Vulnerability of the Model via Data Poisoning” in IEEE Globecom 2024.<br>
-+ Ji Guo, Hongwei Li, **Wenbo Jiang***, et al., “Backdoor Attack Against Vision Transformers via Attention Gradient-Based Image Erosion” in IEEE Globecom 2024.<br>
-+ Rui Zhang, Hongwei Li, **Wenbo Jiang***, et al., “BadTTS: Identifying Vulnerabilities in Neural Text-to-Speech Models” IEEE Globecom 2024.<br>
-+ Ran Zhang, Hongwei Li, Xinyuan Qian, Xiaoyuan Liu and **Wenbo Jiang**, “QPFFL: Advancing Federated Learning with Quantum-Resistance, Privacy, and Fairness” IEEE Globecom 2024.<br>
-+ R Zhang, H Li, X Qian, **W Jiang***, X Zhang, "An Efficient and Secure Privacy-Preserving Federated Learning Via Lattice-Based Functional Encryption" in IEEE ICC 2024.<br>
-+ J He, H Li, **W Jiang***, Y Zhang, "Mtisa: Multi-Target Image-Scaling Attack" in IEEE ICC 2024.<br>
+
 
 Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
