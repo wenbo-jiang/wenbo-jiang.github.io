@@ -35,6 +35,7 @@ Recent publications
 ======
 + Rui Zhang, Yun Shen, Hongwei Li, **Wenbo Jiang**, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang. The Ripple Effect: On Unforeseen Complications of Backdoor Attacks. International Conference on Machine Learning (ICML), 2025.<br>
 + Shuai Yuan, Hongwei Li, Rui Zhang, Hangcheng Cao, **Wenbo Jiang**, Tao Ni, Wenshu Fan, Qingchuan Zhao, Guowen Xu. Omni-Angle Assault: An Invisible and Powerful Physical Adversarial Attack on Face Recognition. International Conference on Machine Learning (ICML), 2025.<br>
++ Wenshu Fan, Minxing Zhang, Hongwei Li, **Wenbo Jiang**, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang, "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy", in Proceedings of ACM SIGSAC Conference on Computer and Communications Security, Taipei, Taiwan, October 13–17, 2025..<br>
 + **W. Jiang**, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu, "Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective" in IEEE Transactions on Dependable and Secure Computing, DOI: 10.1109/TDSC.2024.3521942.<br>
 + Xue Yang, Tao Chen, lei guo, **Wenbo Jiang**, ji guo, Yongming Li, Jiaming He. "BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution" Proceedings of ICASSP 2025.<br>
 + Jiaming He, Cheng Liu, Guanyu Hou, **Wenbo Jiang***, Jiachen Li. "PRESS: Defending Privacy in Retrieval-Augmented Generation via Embedding Space Shifting" Proceedings of ICASSP 2025.<br>
