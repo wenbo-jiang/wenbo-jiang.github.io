@@ -48,6 +48,3 @@ Recent publications
 + **Wenbo Jiang**, T. Zhang, H. Qiu, H. Li and G. Xu, "Incremental Learning, Incremental Backdoor Threats," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 559-572, March-April 2024, doi: 10.1109/TDSC.2022.3201234.<br>
 
 
-Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
-
-
