@@ -25,7 +25,7 @@ Education
 
 Academic service
 ======
-Reviewer for conference: NIPS2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, IJCNN 2025 (Area Chair), etc.
+Reviewer for conference: NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, IJCNN 2025 (Area Chair), etc.
 
 Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
 
