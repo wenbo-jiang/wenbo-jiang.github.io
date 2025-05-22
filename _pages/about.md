@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the fitst/corrsponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS、IEEE CVPR、AAAI、ICML、IEEE TDSC、IEEE TIFS, etc. 
+Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the first/corresponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS、IEEE CVPR、AAAI、ICML、IEEE TDSC、IEEE TIFS, etc. 
 
 Email: wenbo_jiang@uestc.edu.cn<br>
 Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
@@ -25,7 +25,7 @@ Education
 
 Academic service
 ======
-Reviewer for conference: NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, IJCNN 2025 (Area Chair), etc.
+Reviewer for conference: NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, IJCNN 2025 (Area Chair), BMVC 2025 (Area Chair) etc.
 
 Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
 
