@@ -10,7 +10,6 @@ redirect_from:
 Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the first/corresponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS、IEEE CVPR、AAAI、ICML、IEEE TDSC、IEEE TIFS, etc. 
 
 Email: wenbo_jiang@uestc.edu.cn<br>
-Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
 Research interests
 ======
@@ -43,5 +42,7 @@ Recent publications
 + W. Fan, H. Li, **Wenbo Jiang***, M. Hao, S. Yu and X. Zhang, "Stealthy Targeted Backdoor Attacks Against Image Captioning," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5655-5667, 2024, doi: 10.1109/TIFS.2024.3402179.<br>
 + R. Zhang, H. Li, R. Wen, **Wenbo Jiang**, Y. Zhang, M. Backes, Y. Shen and Y. Zhang, "Instruction backdoor attacks against customized {LLMs}," In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 1849-1866).<br>
 + **Wenbo Jiang**, T. Zhang, H. Qiu, H. Li and G. Xu, "Incremental Learning, Incremental Backdoor Threats," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 559-572, March-April 2024, doi: 10.1109/TDSC.2022.3201234.<br>
+
+Google scholar: https://scholar.google.com/citations?user=OjHzvJkAAAAJ
 
 
