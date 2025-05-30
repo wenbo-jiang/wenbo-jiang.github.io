@@ -30,7 +30,7 @@ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, 
 
 Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU
 
-Recent publications
+Selected publications
 ======
 + Rui Zhang, Yun Shen, Hongwei Li, **Wenbo Jiang**, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang. The Ripple Effect: On Unforeseen Complications of Backdoor Attacks. International Conference on Machine Learning (ICML), 2025.<br>
 + Shuai Yuan, Hongwei Li, Rui Zhang, Hangcheng Cao, **Wenbo Jiang**, Tao Ni, Wenshu Fan, Qingchuan Zhao, Guowen Xu. Omni-Angle Assault: An Invisible and Powerful Physical Adversarial Attack on Face Recognition. International Conference on Machine Learning (ICML), 2025.<br>
