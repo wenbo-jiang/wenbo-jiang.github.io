@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the first/corresponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS、IEEE CVPR、AAAI、ICML、IEEE TDSC、IEEE TIFS, etc. 
+Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, under the supervision of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the first/corresponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS CVPR、AAAI、ICML TDSC TIFS, etc. 
 
 Email: wenbo_jiang@uestc.edu.cn<br>
 
