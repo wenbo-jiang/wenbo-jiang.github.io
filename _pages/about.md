@@ -30,6 +30,19 @@ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, 
 
 Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU
 
+News
+======
+
++ 2025.08 Invited as an Area Chair for ICLR 2026.<br>
++ 2025.08 One paper accepted by TDSC (CCF-A). Cheers! <br>
++ 2025.08 One paper accepted by TIFS (CCF-A). Congratulations to Kunlan.<br>
++ 2025.08 One paper accepted by EMNLP 2025 (CCF-B). Congratulations to Guanyu and Jiaming.<br>
++ 2025.07 One paper accepted by ECAI 2025 (CCF-B). Congratulations to Xin Liu.<br>
++ 2025.07 Invited as a Program Committee for AAAI 2026.<br>
++ 2025.05 Invited as an Area Chair for BMVC 2025.<br>
++ 2025.05 Two paper accepted by ICML 2025 (CCF-A). Congratulations to Rui Zhang and Shuai Yuan.<br>
++ 2025.03 One paper accepted by CCS 2025 (CCF-A). Congratulations to Wenshu.<br>
+
 Selected publications
 ======
 + Rui Zhang, Yun Shen, Hongwei Li, **Wenbo Jiang**, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang. The Ripple Effect: On Unforeseen Complications of Backdoor Attacks. International Conference on Machine Learning (ICML), 2025.<br>
