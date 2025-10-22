@@ -32,7 +32,7 @@ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, 
 
 News
 ======
-+ 2025.10: Our CCS2025 papaer "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy" has been awarded the Distinguished Paper Award! Congratulations to Wenshu!<br>
++ 2025.10: Our CCS2025 papaer "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy" has been awarded the **Distinguished Paper Award!** Congratulations to Wenshu!<br>
 + 2025.08: Invited as an Area Chair for ICLR 2026.<br>
 + 2025.08: One paper accepted by TDSC (CCF-A). Cheers! <br>
 + 2025.08: One paper accepted by TIFS (CCF-A). Congratulations to Kunlan!<br>
