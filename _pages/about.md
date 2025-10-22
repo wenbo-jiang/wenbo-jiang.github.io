@@ -32,6 +32,7 @@ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, 
 
 News
 ======
++ 2025.10: Our CCS2025 papaer "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy" has been awarded the Distinguished Paper Award! Congratulations to Wenshu!<br>
 + 2025.08: Invited as an Area Chair for ICLR 2026.<br>
 + 2025.08: One paper accepted by TDSC (CCF-A). Cheers! <br>
 + 2025.08: One paper accepted by TIFS (CCF-A). Congratulations to Kunlan!<br>
@@ -44,9 +45,12 @@ News
 
 Selected publications
 ======
++	Kunlan Xiang, Haomiao Yang, Meng Hao, Shaofeng Li, Haoxin Wang, Zikang Ding, **Wenbo Jiang**, Tianwei Zhang. The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning. IEEE Transactions on Information Forensics and Security (TIFS), 2025. <br>
++	**Wenbo Jiang**, Hongwei Li, Jiaming He, Rui Zhang, Guowen Xu, Tianwei Zhang, Rongxing Lu. I2I Backdoor: Backdoor Attacks against Image-to-Image Tasks. IEEE Transactions on Dependable and Secure Computing(TDSC), 2025. <br>
 + Rui Zhang, Yun Shen, Hongwei Li, **Wenbo Jiang**, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang. The Ripple Effect: On Unforeseen Complications of Backdoor Attacks. International Conference on Machine Learning (ICML), 2025.<br>
++ Guanyu Hou, Jiaming He, Yinhang Zhou, Yitong Qiao, Ji Guo, Rui Zhang, **Wenbo Jiang**, “Evaluating Robustness of Large Audio Language Models to Audio Injection: An Empirical Study”, EMNLP 2025 <br>
 + Shuai Yuan, Hongwei Li, Rui Zhang, Hangcheng Cao, **Wenbo Jiang**, Tao Ni, Wenshu Fan, Qingchuan Zhao, Guowen Xu. Omni-Angle Assault: An Invisible and Powerful Physical Adversarial Attack on Face Recognition. International Conference on Machine Learning (ICML), 2025.<br>
-+ Wenshu Fan, Minxing Zhang, Hongwei Li, **Wenbo Jiang***, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang, "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy", in Proceedings of ACM SIGSAC Conference on Computer and Communications Security (CCS), 2025.<br>
++ Wenshu Fan, Minxing Zhang, Hongwei Li, **Wenbo Jiang***, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang, "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy", in Proceedings of ACM SIGSAC Conference on Computer and Communications Security (CCS) (Distinguished Paper Award), 2025.<br>
 + **Wenbo Jiang**, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu, "Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective" in IEEE Transactions on Dependable and Secure Computing, DOI: 10.1109/TDSC.2024.3521942.<br>
 + Jiaming He, **Wenbo Jiang***, Guanyu Hou, Wenshu Fan, Rui Zhang and Hongwei Li. " Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models." Proceedings of the AAAI 2025.<br>
 + **Wenbo Jiang**, H. Li, G. Xu, T. Zhang, "Color backdoor: A robust poisoning attack in color space" in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 8133-8142.<br>
