@@ -32,6 +32,8 @@ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, 
 
 News
 ======
++ 2025.11: Three papers accepted by AAAI 2026 (CCF-A). Congratulations to Zihan and Xin Liu!<br>
++ 2025.10: One paper accepted by NeurIPS 2025 (CCF-A). Congratulations to Shuai Yuan!<br>
 + 2025.10: Our CCS2025 papaer "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy" has been awarded the **Distinguished Paper Award!** Congratulations to Wenshu!<br>
 + 2025.08: Invited as an Area Chair for ICLR 2026.<br>
 + 2025.08: One paper accepted by TDSC (CCF-A). Cheers! <br>
