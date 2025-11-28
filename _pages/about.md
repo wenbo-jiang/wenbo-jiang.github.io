@@ -32,18 +32,18 @@ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, 
 
 News
 ======
-+ 2025.11: Three papers accepted by AAAI 2026 (CCF-A). Congratulations to Zihan and Xin Liu!<br>
-+ 2025.10: One paper accepted by NeurIPS 2025 (CCF-A). Congratulations to Shuai Yuan!<br>
-+ 2025.10: Our CCS2025 papaer "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy" has been awarded the **Distinguished Paper Award!** Congratulations to Wenshu!<br>
++ 2025.11: Three papers accepted by AAAI 2026 (CCF-A). <br>
++ 2025.10: One paper accepted by NeurIPS 2025 (CCF-A). <br>
++ 2025.10: Our CCS2025 papaer "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy" has been awarded the **Distinguished Paper Award!** <br>
 + 2025.08: Invited as an Area Chair for ICLR 2026.<br>
-+ 2025.08: One paper accepted by TDSC (CCF-A). Cheers! <br>
-+ 2025.08: One paper accepted by TIFS (CCF-A). Congratulations to Kunlan!<br>
-+ 2025.08: One paper accepted by EMNLP 2025 (CCF-B). Congratulations to Guanyu and Jiaming!<br>
-+ 2025.07: One paper accepted by ECAI 2025 (CCF-B). Congratulations to Xin Liu!<br>
++ 2025.08: One paper accepted by TDSC (CCF-A). <br>
++ 2025.08: One paper accepted by TIFS (CCF-A). <br>
++ 2025.08: One paper accepted by EMNLP 2025 (CCF-B). <br>
++ 2025.07: One paper accepted by ECAI 2025 (CCF-B). <br>
 + 2025.07: Invited as a Program Committee for AAAI 2026.<br>
 + 2025.05: Invited as an Area Chair for BMVC 2025.<br>
-+ 2025.05: Two paper accepted by ICML 2025 (CCF-A). Congratulations to Rui Zhang and Shuai Yuan!<br>
-+ 2025.03: One paper accepted by CCS 2025 (CCF-A). Congratulations to Wenshu!<br>
++ 2025.05: Two paper accepted by ICML 2025 (CCF-A). <br>
++ 2025.03: One paper accepted by CCS 2025 (CCF-A).<br>
 
 Selected publications
 ======
