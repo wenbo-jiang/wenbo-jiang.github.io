@@ -6,10 +6,10 @@
 
 main:
   - title: "Homepage"
-    url: /talks/ 
+    url: /pages/
   
   - title: "Publications"
-    url: /
+    url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
