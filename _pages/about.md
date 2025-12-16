@@ -18,11 +18,11 @@ Dr. Wenbo Jiang is currently a postdoctoral (associate researcher fellow) in the
 
 Academic service
 ======
-Area Chair: ICLR 2026 (Area Chair), IJCNN 2025 (Area Chair), BMVC 2025 (Area Chair).
+Area Chair: ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025.
 
 Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU
 
-PC/Reviewer for conference: , AAAI 2025, NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, ICME 2025, ICASSP 2025, etc.
+PC/Reviewer for conference: , AAAI 2025, NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, etc.
 
 Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
 
