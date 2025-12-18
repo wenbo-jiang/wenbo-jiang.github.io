@@ -18,17 +18,12 @@ Education
 
 Academic service
 ======
-Area Chair: ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025.
-
-Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU
-
-Workshop Chair: DLNN 2025 (AI Security and Privacy: Building Robust, Trustworthy, and Explainable AI Systems)
-
-Session Chair: ICC 2019
-
-PC/Reviewer for conference: AAAI 2025, NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, etc.
-
-Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.
++ Area Chair: ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025. <br>
++ Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
++ Workshop Chair: DLNN 2025 (AI Security and Privacy: Building Robust, Trustworthy, and Explainable AI Systems). <br>
++ Session Chair: ICC 2019.<br>
++ PC/Reviewer for conference: AAAI 2025, NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, etc.<br>
++ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.<br>
 
 News
 ======
