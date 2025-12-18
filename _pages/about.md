@@ -22,7 +22,7 @@ Area Chair: ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025.
 
 Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU
 
-Workshop Chair: DLNN 2025
+Workshop Chair: DLNN 2025 (AI Security and Privacy: Building Robust, Trustworthy, and Explainable AI Systems)
 
 Session Chair: ICC 2019
 
