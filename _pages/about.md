@@ -42,6 +42,11 @@ News
 
 Selected publications
 ======
++	Shuai Yuan, Xingshuo Han, Hongwei Li, Guowen Xu, **Wenbo Jiang**, Tao Ni, Qingchuan Zhao, Yuguang Fang. The Fluorescent Veil: A Stealthy and Effective Physical Adversarial Patch Against Traffic Sign Recognition. The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025. <br>
++	Zihan Wang, Rui Zhang, Yu Liu, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Guowen Xu. MPMA: Preference Manipulation Attack Against Model Context Protocol. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026. <br>
++	Zihan Wang, Rui Zhang, Hongwei Li, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Guowen Xu. ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026. <br>
++	Hanxiao Chen, Hongwei Li, Meng Hao, Pengzhi Xing, Jia Hu, **Wenbo Jiang**, Tianwei Zhang, and Guowen Xu. Conan: Secure and Reliable Machine Learning Inference against Malicious Service Providers. IEEE Transactions on Information Forensics and Security (TIFS), 2025. <br>
++	Xin Liu, Qiyang Song, Qihang Zhou, Haichao Du, Shaowen Xu, Wenbo Jiang, Weijuan Zhang, Xiaoqi Jia. Focusing on Language: Revealing and Exploiting Language Attention Heads in Multilingual Large Language Models. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026. <br>
 +	Kunlan Xiang, Haomiao Yang, Meng Hao, Shaofeng Li, Haoxin Wang, Zikang Ding, **Wenbo Jiang**, Tianwei Zhang. The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning. IEEE Transactions on Information Forensics and Security (TIFS), 2025. <br>
 +	**Wenbo Jiang**, Hongwei Li, Jiaming He, Rui Zhang, Guowen Xu, Tianwei Zhang, Rongxing Lu. I2I Backdoor: Backdoor Attacks against Image-to-Image Tasks. IEEE Transactions on Dependable and Secure Computing(TDSC), 2025. <br>
 + Rui Zhang, Yun Shen, Hongwei Li, **Wenbo Jiang**, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang. The Ripple Effect: On Unforeseen Complications of Backdoor Attacks. International Conference on Machine Learning (ICML), 2025.<br>
