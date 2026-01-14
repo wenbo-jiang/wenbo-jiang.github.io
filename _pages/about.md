@@ -42,6 +42,7 @@ News
 
 Selected publications
 ======
++ Qiyang Song, Qihang Zhou, Xiaoqi Jia, Zhenyu Song, Wenbo Jiang, Heqing Huang, Yong Liu, Dan Meng. vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. The 35th USENIX Security Symposium, 2026. <br>
 +	Shuai Yuan, Xingshuo Han, Hongwei Li, Guowen Xu, **Wenbo Jiang**, Tao Ni, Qingchuan Zhao, Yuguang Fang. The Fluorescent Veil: A Stealthy and Effective Physical Adversarial Patch Against Traffic Sign Recognition. The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025. <br>
 +	Zihan Wang, Rui Zhang, Yu Liu, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Guowen Xu. MPMA: Preference Manipulation Attack Against Model Context Protocol. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026. <br>
 +	Zihan Wang, Rui Zhang, Hongwei Li, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Guowen Xu. ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026. <br>
