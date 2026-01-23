@@ -27,6 +27,7 @@ Academic service
 
 News
 ======
++ 2026.01: Invited as an Area Chair for IJCNN 2026.<br>
 + 2026.01: Invited as a Senior Program Committee (SPC) for IJCAI 2026.<br>
 + 2025.12: One paper accepted by USENIX Security Symposium 2026 (CCF-A). <br>
 + 2025.11: Three papers accepted by AAAI 2026 (CCF-A). <br>
