@@ -18,7 +18,7 @@ Education
 
 Academic service
 ======
-+ Area Chair/Senior PC: IJCAI 2026, ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025. <br>
++ Area Chair: IJCNN 2026, IJCAI 2026(Senior PC), ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025. <br>
 + Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
 + Workshop Chair: DLNN 2025 (AI Security and Privacy: Building Robust, Trustworthy, and Explainable AI Systems). <br>
 + Session Chair: ICC 2019.<br>
