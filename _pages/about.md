@@ -27,6 +27,7 @@ Academic service
 
 News
 ======
++ 2026.02: One paper accepted by CVPR 2026 (CCF-A). <br>
 + 2026.01: Invited as an Area Chair for IJCNN 2026.<br>
 + 2026.01: Invited as a Senior Program Committee (SPC) for IJCAI 2026.<br>
 + 2025.12: One paper accepted by USENIX Security Symposium 2026 (CCF-A). <br>
@@ -45,7 +46,7 @@ News
 
 Selected publications
 ======
-2026
++ Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, Kangjie Chen, Yi Yu, **Wenbo Jiang**, Hongwei Li, Guowen Xu, Tianwei Zhang. TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models. Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026
 + Qiyang Song, Qihang Zhou, Xiaoqi Jia, Zhenyu Song, **Wenbo Jiang**, Heqing Huang, Yong Liu, Dan Meng. vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. The 35th USENIX Security Symposium, 2026 (CCF-A). <br>
 +	Zihan Wang, Rui Zhang, Yu Liu, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Guowen Xu. MPMA: Preference Manipulation Attack Against Model Context Protocol. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026 (CCF-A). <br>
 +	Zihan Wang, Rui Zhang, Hongwei Li, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Guowen Xu. ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026 (CCF-A). <br>
