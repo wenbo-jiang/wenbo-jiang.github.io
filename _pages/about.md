@@ -18,12 +18,12 @@ Education
 
 Academic service
 ======
-+ Area Chair: IJCNN 2026, IJCAI 2026(Senior PC), ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025. <br>
++ Area Chair/Senior PC: IJCNN 2026, IJCAI 2026(Senior PC), ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025. <br>
 + Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
-+ Workshop Chair: DLNN 2025 (AI Security and Privacy: Building Robust, Trustworthy, and Explainable AI Systems). <br>
++ Workshop Chair: DLNN 2025、IEEE ICAIM 2026、MICCIS 2026、IEEE PRMVAI 2026. <br>
 + Session Chair: ICC 2019.<br>
-+ PC/Reviewer for conference: AAAI 2025, NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, etc.<br>
-+ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, ACM TOIT, etc.<br>
++ PC/Reviewer for conference: ICML 2026, CVPR 2026, KDD 2026, AAAI 2025, NIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, etc.<br>
++ Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, IEEE TCCN、ACM TOIT(Distinguished reviewer of TIOT), Pattern recognition, Neurocomputing, Neural networks, KBS, ESWA, EAAI, etc.<br>
 
 News
 ======
@@ -46,7 +46,7 @@ News
 
 Selected publications
 ======
-+ Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, Kangjie Chen, Yi Yu, **Wenbo Jiang**, Hongwei Li, Guowen Xu, Tianwei Zhang. TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models. Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026
++ Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, Kangjie Chen, Yi Yu, **Wenbo Jiang**, Hongwei Li, Guowen Xu, Tianwei Zhang. TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models. Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026. <br>
 + Qiyang Song, Qihang Zhou, Xiaoqi Jia, Zhenyu Song, **Wenbo Jiang**, Heqing Huang, Yong Liu, Dan Meng. vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. The 35th USENIX Security Symposium, 2026 (CCF-A). <br>
 +	Zihan Wang, Rui Zhang, Yu Liu, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Guowen Xu. MPMA: Preference Manipulation Attack Against Model Context Protocol. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026 (CCF-A). <br>
 +	Zihan Wang, Rui Zhang, Hongwei Li, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Guowen Xu. ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026 (CCF-A). <br>
@@ -69,6 +69,9 @@ Selected publications
 + W. Fan, H. Li, **Wenbo Jiang***, M. Hao, S. Yu and X. Zhang, "Stealthy Targeted Backdoor Attacks Against Image Captioning," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5655-5667, 2024, doi: 10.1109/TIFS.2024.3402179 (CCF-A).<br>
 + R. Zhang, H. Li, R. Wen, **Wenbo Jiang**, Y. Zhang, M. Backes, Y. Shen and Y. Zhang, "Instruction backdoor attacks against customized {LLMs}," In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 1849-1866) (CCF-A).<br>
 + **Wenbo Jiang**, T. Zhang, H. Qiu, H. Li and G. Xu, "Incremental Learning, Incremental Backdoor Threats," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 559-572, March-April 2024, doi: 10.1109/TDSC.2022.3201234 (CCF-A).<br>
+
+2023
++ **Wenbo Jiang**, Hongwei Li, Guowen Xu, Tianwei Zhang, "Color backdoor: a robust poisoning attack in color space", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June, 2023 （CCF-A）. <br>
 
 [Google scholar](https://scholar.google.com/citations?user=OjHzvJkAAAAJ)
 
