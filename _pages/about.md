@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Wenbo Jiang is currently an Associate Professor in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, in the group of Prof. Hongwei Li (IEEE Fellow). Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the first/corresponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS、CVPR、AAAI、ICML、TDSC、TIFS, etc. His research interests includes AI security and data security.
+My name is Wenbo Jiang, and I am currently an Associate Professor at the University of Electronic Science and Technology of China. I completed my bachelor's, master's, and doctoral degrees in Cyberspace Security at the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My advisor was Professor Li Hongwei (https://scholar.google.com/citations?user=-o6u2gwAAAAJ), a “Chang Jiang Scholars Program” and an IEEE Fellow. From July 2021 to July 2022, I pursued joint training at Nanyang Technological University (NTU), Singapore. My advisor during this period was Professor Tianwei Zhang (https://scholar.google.com/citations?user=9vpiYDIAAAAJ).
+
+I am currently an Associate Professor in the School of Computer Science and Engineering (School of Cyberspace Security) at the University of Electronic Science and Technology of China, in the group of Prof. Hongwei Li (IEEE Fellow). I completed my bachelor's, master's, and doctoral degrees in Cyberspace Security at the School of Computer Science and Engineering, University of Electronic Science and Technology of China under the supervision of Prof. Hongwei Li (IEEE Fellow). From July 2021 to July 2022, I was a visiting PhD in in Cyber Security Lab at Nanyang Technological University (NTU), under the supervision of Prof. Tianwei Zhang. Dr. Jiang was awarded for the National Postdoctoral Innovative Talent Support Program in 2023, and obtained youth program of the National Natural Science Foundation of China in 2024. As the first/corresponding author, he has published many papers in major conferences/journals, including USENIX Security、CCS、CVPR、NeurIPS、ICML、AAAI、TDSC、TIFS, etc. His research interests includes AI security and data security.
 
 
 Education
 ======
 2013-2023: Bachelor and PhD degree in Cyber Security, University of Electronic Science and Technology of China (supervised by Prof. Hongwei Li).<br>
-2021-2022: Visiting PhD in Cyber Security, Nanyang Technological University (supervised by Prof. Tianwei Zhang).<br>
+2021-2022: Visiting PhD in Cyber Security Lab, Nanyang Technological University (supervised by Prof. Tianwei Zhang).<br>
 
 
 Academic service
