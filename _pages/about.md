@@ -44,6 +44,7 @@ News
 
 Selected publications
 ======
++ Cencen Liu, Dongyang Zhang, Wen Yin, Jielei Wang, Tianyu Li, Ji Guo, **Wenbo Jiang**, Guoqing Wang, Guoming Lu AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution. Findings of Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026. <br>
 + Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, Kangjie Chen, Yi Yu, **Wenbo Jiang***, Hongwei Li, Guowen Xu, Tianwei Zhang. TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models. Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026. <br>
 + Qiyang Song, Qihang Zhou, Xiaoqi Jia, Zhenyu Song, **Wenbo Jiang**, Heqing Huang, Yong Liu, Dan Meng. vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. The 35th USENIX Security Symposium, 2026 (CCF-A). <br>
 +	Zihan Wang, Rui Zhang, Yu Liu, Wenshu Fan, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Guowen Xu. MPMA: Preference Manipulation Attack Against Model Context Protocol. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026 (CCF-A). <br>
