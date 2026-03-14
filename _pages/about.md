@@ -26,7 +26,7 @@ Academic service
 
 News
 ======
-+ 2026.02: One paper accepted by CVPR 2026 (CCF-A). <br>
++ 2026.02: Two paper accepted by CVPR 2026 (CCF-A). <br>
 + 2026.01: Invited as an Area Chair for IJCNN 2026.<br>
 + 2026.01: Invited as a Senior Program Committee (SPC) for IJCAI 2026.<br>
 + 2025.12: One paper accepted by USENIX Security Symposium 2026 (CCF-A). <br>
