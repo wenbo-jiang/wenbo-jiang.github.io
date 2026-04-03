@@ -28,7 +28,7 @@ News
 ======
 + 2026.03: Invited as an Area Chair for NeurIPS 2026.<br>
 + 2026.02: Two paper accepted by CVPR 2026 (CCF-A). <br>
-+ 2026.01: Invited as an Area Chair for IJCNN 2026.<br>
++ 2026.01: Invited as an Area Chair for IJCNN 2026 (CCF-C).<br>
 + 2026.01: Invited as a Senior Program Committee (SPC) for IJCAI 2026.<br>
 + 2025.12: One paper accepted by USENIX Security Symposium 2026 (CCF-A). <br>
 + 2025.11: Three papers accepted by AAAI 2026 (CCF-A). <br>
@@ -39,7 +39,7 @@ News
 + 2025.08: One paper accepted by TIFS (CCF-A). <br>
 + 2025.08: One paper accepted by EMNLP 2025 (CCF-B). <br>
 + 2025.07: One paper accepted by ECAI 2025 (CCF-B). <br>
-+ 2025.05: Invited as an Area Chair for BMVC 2025.<br>
++ 2025.05: Invited as an Area Chair for BMVC 2025 (CCF-C).<br>
 + 2025.05: Two paper accepted by ICML 2025 (CCF-A). <br>
 + 2025.03: One paper accepted by CCS 2025 (CCF-A).<br>
 
