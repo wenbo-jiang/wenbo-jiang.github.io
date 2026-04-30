@@ -26,6 +26,7 @@ Academic service
 
 News
 ======
++ 2026.04: One paper accepted by TDSC (CCF-A). <br>
 + 2026.03: Invited as a Program Committee for PETS 2027 (CCF-C).<br> 
 + 2026.03: Invited as an Area Chair for NeurIPS 2026 (CCF-A).<br>
 + 2026.02: Two paper accepted by CVPR 2026 (CCF-A). <br>
@@ -46,6 +47,7 @@ News
 
 Selected publications
 ======
++ Rui Zhang, Zihan Wang, Tianli Yang, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Yang Liu, Guowen Xu. Hidden Tail: Adversarial Attack for Stealthy Resource Consumption against Vision-Language Models, in IEEE Transactions on Dependable and Secure Computing, 2026. <br>
 + Cencen Liu, Dongyang Zhang, Wen Yin, Jielei Wang, Tianyu Li, Ji Guo, **Wenbo Jiang**, Guoqing Wang, Guoming Lu. AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution. Findings of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <br>
 + Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, Kangjie Chen, Yi Yu, **Wenbo Jiang***, Hongwei Li, Guowen Xu, Tianwei Zhang. TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models. Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026. <br>
 + Qiyang Song, Qihang Zhou, Xiaoqi Jia, Zhenyu Song, **Wenbo Jiang**, Heqing Huang, Yong Liu, Dan Meng. vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing. The 35th USENIX Security Symposium, 2026 (CCF-A). <br>
