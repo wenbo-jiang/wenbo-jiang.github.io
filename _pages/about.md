@@ -47,7 +47,7 @@ News
 
 Selected publications
 ======
-+ Rui Zhang, Hongwei Li, Yun Shen, Xinyue Shen, Wenbo Jiang, Guowen Xu, Yang Liu, Michael Backes, Yang Zhang. The Art of (Mis) alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training. 2026 ACL Finding. <br>
++ Rui Zhang, Hongwei Li, Yun Shen, Xinyue Shen, **,Wenbo Jiang**,, Guowen Xu, Yang Liu, Michael Backes, Yang Zhang. The Art of (Mis) alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training. 2026 ACL Finding. <br>
 + Rui Zhang, Zihan Wang, Tianli Yang, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Yang Liu, Guowen Xu. Hidden Tail: Adversarial Attack for Stealthy Resource Consumption against Vision-Language Models, in IEEE Transactions on Dependable and Secure Computing, 2026. <br>
 + Cencen Liu, Dongyang Zhang, Wen Yin, Jielei Wang, Tianyu Li, Ji Guo, **Wenbo Jiang**, Guoqing Wang, Guoming Lu. AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution. Findings of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <br>
 + Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, Kangjie Chen, Yi Yu, **Wenbo Jiang***, Hongwei Li, Guowen Xu, Tianwei Zhang. TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models. Conference on Computer Vision and Pattern Recognition (CVPR) (CCF-A), 2026. <br>
