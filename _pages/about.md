@@ -75,8 +75,5 @@ Selected publications
 + R. Zhang, H. Li, R. Wen, **Wenbo Jiang**, Y. Zhang, M. Backes, Y. Shen and Y. Zhang, "Instruction backdoor attacks against customized {LLMs}," In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 1849-1866) (CCF-A).<br>
 + **Wenbo Jiang**, T. Zhang, H. Qiu, H. Li and G. Xu, "Incremental Learning, Incremental Backdoor Threats," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 559-572, March-April 2024, doi: 10.1109/TDSC.2022.3201234 (CCF-A).<br>
 
-2023
-+ **Wenbo Jiang**, Hongwei Li, Guowen Xu, Tianwei Zhang, "Color backdoor: a robust poisoning attack in color space", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June, 2023 （CCF-A）. <br>
-
 [Google scholar](https://scholar.google.com/citations?user=OjHzvJkAAAAJ)
 
