@@ -48,6 +48,9 @@ News
 
 Selected publications
 ======
++ Ji Guo, Xiaolong Qin, Cencen Liu, Jielei Wang, Jierun Chen, **Wenbo Jiang***. CBV: Clean-label Backdoor Attacks on Vision Language Models
+via Diffusion Models. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
++ Tianxin Chen, **Wenbo Jiang**, Hongqiao Chen, Zhirun Zheng, Cheng Huang. Semantic-level Backdoor Attack against Text-to-Image Diffusion Models. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
 + Rui Zhang, Hongwei Li, Yun Shen, Xinyue Shen, **Wenbo Jiang**, Guowen Xu, Yang Liu, Michael Backes, Yang Zhang. The Art of (Mis) alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training. 2026 ACL Finding. <br>
 + Rui Zhang, Zihan Wang, Tianli Yang, **Wenbo Jiang**, Qingchuan Zhao, Hongwei Li, Yang Liu, Guowen Xu. Hidden Tail: Adversarial Attack for Stealthy Resource Consumption against Vision-Language Models, in IEEE Transactions on Dependable and Secure Computing, 2026. <br>
 + Cencen Liu, Dongyang Zhang, Wen Yin, Jielei Wang, Tianyu Li, Ji Guo, **Wenbo Jiang**, Guoqing Wang, Guoming Lu. AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution. Findings of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <br>
