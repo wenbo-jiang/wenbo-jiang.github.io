@@ -19,11 +19,11 @@ Education
 
 Academic service
 ======
-+ Area Chair/Senior PC: NeurIPS 2026, IJCNN 2026, IJCAI 2026(Senior PC), ICASSP 2026, ICLR 2026, IJCNN 2025, BMVC 2025. <br>
++ Area Chair/Senior PC: NeurIPS, IJCNN, IJCAI, ICASSP, ICLR, IJCNN, BMVC. <br>
 + Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
 + Workshop Chair: DLNN 2025、IEEE ICAIM 2026、MICCIS 2026、IEEE PRMVAI 2026. <br>
 + Session Chair: ICC 2019.<br>
-+ PC/Reviewer for conference: ICML 2026, CVPR 2026, KDD 2026, AAAI 2025, NeurIPS 2025, KDD 2025, ICCV 2025, CLOM 2025, CVPR 2025, ICLR 2025, PETS 2027, etc.<br>
++ PC/Reviewer for conference: ICML, CVPR, KDD, AAAI, NeurIPS, ICCV, CLOM, ICLR, PETS, CIKM, ICDM, Sensys, etc.<br>
 + Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, IEEE TCCN、ACM TOIT(Distinguished reviewer of TIOT), Pattern recognition, Neurocomputing, Neural networks, KBS, ESWA, EAAI, etc.<br>
 
 News
