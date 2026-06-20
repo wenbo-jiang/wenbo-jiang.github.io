@@ -19,7 +19,7 @@ Education
 
 Academic service
 ======
-+ Area Chair/Senior PC: NeurIPS, IJCNN, IJCAI, ICASSP, ICLR, IJCNN, BMVC. <br>
++ Area Chair: ICLR, NeurIPS, IJCNN, IJCAI, ICASSP, IJCNN, BMVC. <br>
 + Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
 + Workshop Chair: DLNN 2025、IEEE ICAIM 2026、MICCIS 2026、IEEE PRMVAI 2026. <br>
 + Session Chair: ICC 2019.<br>
