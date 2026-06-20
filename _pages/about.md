@@ -30,6 +30,7 @@ News
 ======
 + 2026.06: Invited as a Program Committee for USENIX Security 2027 (CCF-A).<br>
 + 2026.06: Invited as an Area Chair for IJCNN 2027 (CCF-C).<br>
++ 2026.06: Invited as an Area Chair for IEEE MLSP 2026.<br>
 + 2026.05: Three papers accepted by ICML 2026 (CCF-A). <br>
 + 2026.04: One paper accepted by TDSC (CCF-A). <br> 
 + 2026.03: Invited as an Area Chair for NeurIPS 2026 (CCF-A).<br>
