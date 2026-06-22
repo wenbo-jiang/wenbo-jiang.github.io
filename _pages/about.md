@@ -28,6 +28,7 @@ Academic service
 
 News
 ======
++ 2026.06: One paper accepted by IEEE TCSVT (CCF-B). <br> 
 + 2026.06: Invited as a Program Committee for USENIX Security 2027 (CCF-A).<br>
 + 2026.06: Invited as an Area Chair for IJCNN 2027 (CCF-C).<br>
 + 2026.06: Invited as an Area Chair for IEEE MLSP 2026.<br>
