@@ -51,6 +51,7 @@ News
 
 Selected publications
 ======
+2026
 + Qianxin Xia, Zhiyong Shu, **Wenbo Jiang**, Jiawei Du, Jielei Wang, Guoming Lu. DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
 + Ji Guo, Xiaolong Qin, Cencen Liu, Jielei Wang, Jierun Chen, **Wenbo Jiang***. CBV: Clean-label Backdoor Attacks on Vision Language Models
 via Diffusion Models. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
