@@ -28,6 +28,7 @@ Academic service
 
 News
 ======
++ 2026.07: One paper accepted by IEEE TCCN. <br> 
 + 2026.06: One paper accepted by IEEE TCSVT (CCF-B). <br> 
 + 2026.06: Invited as a Program Committee for USENIX Security 2027 (CCF-A).<br>
 + 2026.06: Invited as an Area Chair for IJCNN 2027 (CCF-C).<br>
@@ -52,6 +53,7 @@ News
 Selected publications
 ======
 2026
++ Ji Guo, Zhijing Wang, **Wenbo Jiang***, Rui Zhang, Jian Xiong, Qiyang Song, Hao Wu, Yijing Liu. BiasAgent: Exploiting Agent Bias for Preference Manipulation Attacks on Model Context Protocol. IEEE TCCN, 2026. <br>
 + Qing Xie, Xiaoyang Ning, Jinyu Xu, **Wenbo Jiang***, Mingxuan Yao, Jiachen Li, Yanchun Ma. Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features. IEEE TCSVT, 2026. <br>
 + Qianxin Xia, Zhiyong Shu, **Wenbo Jiang**, Jiawei Du, Jielei Wang, Guoming Lu. DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
 + Ji Guo, Xiaolong Qin, Cencen Liu, Jielei Wang, Jierun Chen, **Wenbo Jiang***. CBV: Clean-label Backdoor Attacks on Vision Language Models
