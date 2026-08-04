@@ -54,6 +54,7 @@ News
 Selected publications
 ======
 2026
++ Ji Guo, Yansong Lin, Man Jiang, Jielei Wang, Cong Chen, Wenbo Jiang, Hongwei Li. BadDenoise: Backdoor attacks on self-supervised image denoising, Pattern Recognition, 2026. <br>
 + Ji Guo, Zhijing Wang, **Wenbo Jiang***, Rui Zhang, Jian Xiong, Qiyang Song, Hao Wu, Yijing Liu. BiasAgent: Exploiting Agent Bias for Preference Manipulation Attacks on Model Context Protocol. IEEE Transactions on Cognitive Communications and Networking, 2026. <br>
 + Qing Xie, Xiaoyang Ning, Jinyu Xu, **Wenbo Jiang***, Mingxuan Yao, Jiachen Li, Yanchun Ma. Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features. IEEE TCSVT, 2026. <br>
 + Qianxin Xia, Zhiyong Shu, **Wenbo Jiang**, Jiawei Du, Jielei Wang, Guoming Lu. DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
