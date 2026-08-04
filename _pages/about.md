@@ -28,6 +28,7 @@ Academic service
 
 News
 ======
++ 2026.07: One paper accepted by Pattern Recognition. <br> 
 + 2026.07: One paper accepted by IEEE TCCN. <br> 
 + 2026.06: One paper accepted by IEEE TCSVT (CCF-B). <br> 
 + 2026.06: Invited as a Program Committee for USENIX Security 2027 (CCF-A).<br>
