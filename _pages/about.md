@@ -19,9 +19,9 @@ Education
 
 Academic service
 ======
-+ Area Chair: ICLR, NeurIPS, IJCNN, IJCAI, ICASSP, BMVC, IEEE MLSP. <br>
++ Area Chair: ICLR, NeurIPS, IJCNN, IJCAI, ICASSP, BMVC, IEEE MLSP, etc.<br>
 + Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
-+ Workshop Chair: DLNN 2025、IEEE ICAIM 2026、MICCIS 2026、IEEE PRMVAI 2026. <br>
++ Workshop Chair: DLNN 2025、IEEE ICAIM 2026、MICCIS 2026、IEEE PRMVAI 2026, etc.<br>
 + Session Chair: ICC 2019.<br>
 + Program Committee for conference: NDSS, USENIX Security, ICML, CVPR, KDD, AAAI, NeurIPS, ICCV, CLOM, ICLR, PETS, CIKM, ICDM, Sensys, etc.<br>
 + Reviewer for journals: IEEE TIFS, IEEE TDSC, IEEE TCSVT, IEEE IoTJ, IEEE TNNLS, IEEE TAI, IEEE TVT, IEEE TCCN、ACM TOIT(Distinguished reviewer of TIOT), Pattern recognition, Neurocomputing, Neural networks, KBS, ESWA, EAAI, etc.<br>
