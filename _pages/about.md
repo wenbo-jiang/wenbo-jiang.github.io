@@ -28,6 +28,8 @@ Academic service
 
 News
 ======
++ 2026.08: One paper accepted by Pattern Recognition. <br>
++ 2026.08: One paper accepted by NDSS 2027. <br> 
 + 2026.08: Invited as a Program Committee for NDSS 2027 (CCF-A).<br>
 + 2026.07: One paper accepted by Pattern Recognition. <br> 
 + 2026.07: One paper accepted by IEEE TCCN. <br> 
@@ -55,6 +57,8 @@ News
 Selected publications
 ======
 2026
++ Jia Hu, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, Wenbo Jiang, Dongxiao Liu, Haiyang Xue, Robert H. Deng. Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy, NDSS 2027 (CCF-A). <br>
++ Zihan Wang, Hongwei Li, Rui Zhang, Wenbo Jiang, Kangjie Chen, Tianwei Zhang, Qingchuan Zhao, Guowen Xu. BadLingual: Language-triggered anomalous behavior in multilingual foundation Large Language Models, Pattern Recognition, 2026. <br>
 + Ji Guo, Yansong Lin, Man Jiang, Jielei Wang, Cong Chen, Wenbo Jiang, Hongwei Li. BadDenoise: Backdoor attacks on self-supervised image denoising, Pattern Recognition, 2026. <br>
 + Ji Guo, Zhijing Wang, **Wenbo Jiang***, Rui Zhang, Jian Xiong, Qiyang Song, Hao Wu, Yijing Liu. BiasAgent: Exploiting Agent Bias for Preference Manipulation Attacks on Model Context Protocol. IEEE Transactions on Cognitive Communications and Networking, 2026. <br>
 + Qing Xie, Xiaoyang Ning, Jinyu Xu, **Wenbo Jiang***, Mingxuan Yao, Jiachen Li, Yanchun Ma. Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features. IEEE TCSVT, 2026. <br>
