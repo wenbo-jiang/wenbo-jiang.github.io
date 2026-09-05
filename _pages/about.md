@@ -57,10 +57,11 @@ News
 Selected publications
 ======
 2026
-+ Jia Hu, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, Wenbo Jiang, Dongxiao Liu, Haiyang Xue, Robert H. Deng. Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy, NDSS 2027 (CCF-A). <br>
-+ Zihan Wang, Hongwei Li, Rui Zhang, Wenbo Jiang, Kangjie Chen, Tianwei Zhang, Qingchuan Zhao, Guowen Xu. BadLingual: Language-triggered anomalous behavior in multilingual foundation Large Language Models, Pattern Recognition, 2026. <br>
-+ Ji Guo, Yansong Lin, Man Jiang, Jielei Wang, Cong Chen, Wenbo Jiang, Hongwei Li. BadDenoise: Backdoor attacks on self-supervised image denoising, Pattern Recognition, 2026. <br>
++ Jia Hu, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, **Wenbo Jiang**, Dongxiao Liu, Haiyang Xue, Robert H. Deng. Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy, NDSS 2027 (CCF-A). <br>
++ Zihan Wang, Hongwei Li, Rui Zhang, **Wenbo Jiang**, Kangjie Chen, Tianwei Zhang, Qingchuan Zhao, Guowen Xu. BadLingual: Language-triggered anomalous behavior in multilingual foundation Large Language Models, Pattern Recognition, 2026. <br>
++ Ji Guo, Yansong Lin, Man Jiang, Jielei Wang, Cong Chen, **Wenbo Jiang**, Hongwei Li. BadDenoise: Backdoor attacks on self-supervised image denoising, Pattern Recognition, 2026. <br>
 + Ji Guo, Zhijing Wang, **Wenbo Jiang***, Rui Zhang, Jian Xiong, Qiyang Song, Hao Wu, Yijing Liu. BiasAgent: Exploiting Agent Bias for Preference Manipulation Attacks on Model Context Protocol. IEEE Transactions on Cognitive Communications and Networking, 2026. <br>
++ J Guo, R Zhang, **Wenbo Jiang***, Y Zhu, F Chen, J Li, J He, H Li. Trojanedit: Multimodal backdoor attack against image editing model. Neurocomputing, 2026. <br>
 + Qing Xie, Xiaoyang Ning, Jinyu Xu, **Wenbo Jiang***, Mingxuan Yao, Jiachen Li, Yanchun Ma. Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features. IEEE TCSVT, 2026. <br>
 + Qianxin Xia, Zhiyong Shu, **Wenbo Jiang**, Jiawei Du, Jielei Wang, Guoming Lu. DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery. Conference on International Conference on Machine Learning (ICML) (CCF-A), 2026. <br>
 + Ji Guo, Xiaolong Qin, Cencen Liu, Jielei Wang, Jierun Chen, **Wenbo Jiang***. CBV: Clean-label Backdoor Attacks on Vision Language Models
@@ -85,7 +86,8 @@ via Diffusion Models. Conference on International Conference on Machine Learning
 + Shuai Yuan, Hongwei Li, Rui Zhang, Hangcheng Cao, **Wenbo Jiang**, Tao Ni, Wenshu Fan, Qingchuan Zhao, Guowen Xu. Omni-Angle Assault: An Invisible and Powerful Physical Adversarial Attack on Face Recognition. International Conference on Machine Learning (ICML), 2025 (CCF-A).<br>
 + Wenshu Fan, Minxing Zhang, Hongwei Li, **Wenbo Jiang***, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang, "DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy", in Proceedings of ACM SIGSAC Conference on Computer and Communications Security (CCS) (Distinguished Paper Award), 2025 (CCF-A).<br>
 + **Wenbo Jiang**, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu, "Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective" in IEEE Transactions on Dependable and Secure Computing, DOI: 10.1109/TDSC.2024.3521942 (CCF-A).<br>
-+ Jiaming He, **Wenbo Jiang***, Guanyu Hou, Wenshu Fan, Rui Zhang and Hongwei Li. " Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models." Proceedings of the AAAI 2025 (CCF-A).<br>
++ Jiaming He, **Wenbo Jiang***, Guanyu Hou, Wenshu Fan, Rui Zhang and Hongwei Li. " Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor + Attacks against Large Language Models." Proceedings of the AAAI 2025 (CCF-A).<br>
++ J Guo, **W Jiang***, R Zhang, W Fan, J Li, G Lu, H Li. " Backdoor attacks against hybrid classical-quantum neural networks". Neural Networks.<br>
 
 2024
 + **Wenbo Jiang**, H. Li, G. Xu, T. Zhang and R. Lu, "A Comprehensive Defense Framework Against Model Extraction Attacks," in IEEE Transactions on Dependable and Secure Computing, vol. 21, no. 2, pp. 685-700, March-April 2024, doi: 10.1109/TDSC.2023.3261327 (CCF-A).<br>
