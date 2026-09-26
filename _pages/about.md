@@ -28,7 +28,7 @@ Academic service
 
 News
 ======
-+ 2026.09: One paper accepted by ACSAC. <br>
++ 2026.09: One paper accepted by ACSAC 2027. <br>
 + 2026.08: One paper accepted by Pattern Recognition. <br>
 + 2026.08: One paper accepted by NDSS 2027. <br> 
 + 2026.08: Invited as a Program Committee for NDSS 2027 (CCF-A).<br>
