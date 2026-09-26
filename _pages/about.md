@@ -58,6 +58,7 @@ News
 Selected publications
 ======
 2026
++ yirui bai, qiyang song, qihang zhou, xin liu, **Wenbo Jiang**, haichao du, nan jiang, shaowen xu, xiaoqi jia. The Devil’s Whisper to Agents: Unveiling and Formalizing Training-Free Backdoor Attacks Across the MCP-Enabled Agent Execution Lifecycle, ACSAC 2027. <br>
 + Jia Hu, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, **Wenbo Jiang**, Dongxiao Liu, Haiyang Xue, Robert H. Deng. Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy, NDSS 2027 (CCF-A). <br>
 + Zihan Wang, Hongwei Li, Rui Zhang, **Wenbo Jiang**, Kangjie Chen, Tianwei Zhang, Qingchuan Zhao, Guowen Xu. BadLingual: Language-triggered anomalous behavior in multilingual foundation Large Language Models, Pattern Recognition, 2026. <br>
 + Ji Guo, Yansong Lin, Man Jiang, Jielei Wang, Cong Chen, **Wenbo Jiang**, Hongwei Li. BadDenoise: Backdoor attacks on self-supervised image denoising, Pattern Recognition, 2026. <br>
