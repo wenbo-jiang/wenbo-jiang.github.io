@@ -28,6 +28,7 @@ Academic service
 
 News
 ======
++ 2026.10: Invited as an Area Chair for ACL.<br> 
 + 2026.10: Invited as an Area Chair for ICASSP 2027.<br> 
 + 2026.09: One paper accepted by ACSAC 2027. <br>
 + 2026.08: One paper accepted by Pattern Recognition. <br>
