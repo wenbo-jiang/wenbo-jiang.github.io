@@ -28,6 +28,7 @@ Academic service
 
 News
 ======
++ 2026.10: One paper accepted by IEEE TNSE. <br>
 + 2026.10: Invited as a SPC for IJCAI 2027.<br> 
 + 2026.10: Invited as an Area Chair for ACL (CCF-A).<br> 
 + 2026.10: Invited as an Area Chair for ICASSP 2027.<br> 
