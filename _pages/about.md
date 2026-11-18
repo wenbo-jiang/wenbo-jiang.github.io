@@ -28,6 +28,7 @@ Academic service
 
 News
 ======
++ 2026.11: One paper accepted by IEEE TDSC. <br>
 + 2026.10: One paper accepted by IEEE TNSE. <br>
 + 2026.10: Invited as a SPC for IJCAI 2027.<br> 
 + 2026.10: Invited as an Area Chair for ACL (CCF-A).<br> 
@@ -62,7 +63,8 @@ News
 Selected publications
 ======
 2026
-+ Yiyang Mu, Hongwei Li, Rui Zhang, **Wenbo Jiang**, Wenshu Fan. PromptTweak: Assessing the Trustworthiness of Text-to-Video Models in Autonomous Edge Intelligence, Transactions on Network Science and Engineering, 2026.
++ Ji Guo, Rui Zhang, Guomin Lu, Aiguo Chen, Tianwei Zhang, Hongwei Li, **Wenbo Jiang***, VerifyPrompt: Towards Text-to-Image Models Verification Behind Black-Box APIs. IEEE TDSC, 2026. <br>
++ Yiyang Mu, Hongwei Li, Rui Zhang, **Wenbo Jiang**, Wenshu Fan. PromptTweak: Assessing the Trustworthiness of Text-to-Video Models in Autonomous Edge Intelligence. IEEE Transactions on Network Science and Engineering, 2026. <br>
 + yirui bai, qiyang song, qihang zhou, xin liu, **Wenbo Jiang**, haichao du, nan jiang, shaowen xu, xiaoqi jia. The Devil’s Whisper to Agents: Unveiling and Formalizing Training-Free Backdoor Attacks Across the MCP-Enabled Agent Execution Lifecycle, ACSAC 2027. <br>
 + Jia Hu, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, **Wenbo Jiang**, Dongxiao Liu, Haiyang Xue, Robert H. Deng. Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy, NDSS 2027 (CCF-A). <br>
 + Zihan Wang, Hongwei Li, Rui Zhang, **Wenbo Jiang**, Kangjie Chen, Tianwei Zhang, Qingchuan Zhao, Guowen Xu. BadLingual: Language-triggered anomalous behavior in multilingual foundation Large Language Models, Pattern Recognition, 2026. <br>
