@@ -29,7 +29,7 @@ Academic service
 
 News
 ======
-+ 2026.11: Special Session Chair for IJCNN 2027 (Security and Privacy Issues in Generative Models). <br>
++ 2026.11: Special Session Chair for IJCNN 2027 (Security and Privacy Issues in Generative Models) https://ijcnn.org/2027/authors/special-sessions#session-security-and-privacy-issues-in-generative-models. <br>
 + 2026.11: Invited as a Program Committee for IEEE EuroS&P 2027.<br>
 + 2026.11: Invited as an Area Chair for ICML 2027 (CCF-A).<br> 
 + 2026.11: One paper accepted by IEEE TDSC. <br>
