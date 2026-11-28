@@ -28,7 +28,8 @@ Academic service
 
 News
 ======
-+ 2026.11: Invited as an Area Chair for ICML 2027.<br> 
++ 2026.11: Invited as a Program Committee for IEEE EuroS&P 2027.<br>
++ 2026.11: Invited as an Area Chair for ICML 2027 (CCF-A).<br> 
 + 2026.11: One paper accepted by IEEE TDSC. <br>
 + 2026.10: One paper accepted by IEEE TNSE. <br>
 + 2026.10: Invited as a SPC for IJCAI 2027.<br> 
