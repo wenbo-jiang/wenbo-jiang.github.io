@@ -21,6 +21,7 @@ Academic service
 ======
 + Area Chair: ICML, ICLR, NeurIPS, IJCNN, IJCAI, ICASSP, BMVC, IEEE MLSP, etc.<br>
 + Guest editor: A special issue of Electronics (Security and Privacy for AI)  https://www.mdpi.com/journal/electronics/special_issues/F996X09SVU. <br>
++ Special Session Chair: IJCNN 2027 (Security and Privacy Issues in Generative Models) https://ijcnn.org/2027/authors/special-sessions#session-security-and-privacy-issues-in-generative-models.<br>
 + Workshop Chair: DLNN 2025、IEEE ICAIM 2026、MICCIS 2026、IEEE PRMVAI 2026, etc.<br>
 + Session Chair: ICC 2019.<br>
 + Program Committee for conference: NDSS, USENIX Security, ICML, CVPR, KDD, AAAI, NeurIPS, ICCV, CLOM, ICLR, PETS, CIKM, ICDM, Sensys, etc.<br>
